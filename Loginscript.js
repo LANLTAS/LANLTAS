@@ -1,6 +1,6 @@
 const accounts = [
     { username: "Official_progmohamed", password: "zXv7*L(P3m" },
-    { username: "runederune", password: "po2m#rKK0*"  },
+    { username: "runederune", password: "¡£¨¦ÓÑÇ`¾)"  },
     { username: "teunemansio" , password: "0K7h3g@t9" }
 ];
 
